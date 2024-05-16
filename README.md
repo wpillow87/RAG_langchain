@@ -16,3 +16,4 @@
 
 # 我想要的目的
 - github和vscode同步：在本地改了，怎么上传到github上？
+  - 用GitHub Desktop 
